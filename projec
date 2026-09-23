@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hair&amp;Crew Saloons — Beauty, crafted around you.</title>
+<meta name="description" content="Hair&amp;Crew Saloons is a premium salon in Sector 77 &amp; Sector 83, Gurugram — facials, waxing, manicure-pedicure and cleanups. Book a salon visit or home service on WhatsApp.">
+<meta name="theme-color" content="#070707">
+<link rel="canonical" href="https://hairandcrew.in/">
+
+<!-- Favicons / app icons -->
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Hair&amp;Crew Saloons">
+<meta property="og:title" content="Hair&amp;Crew Saloons — Beauty, crafted around you.">
+<meta property="og:description" content="Premium salon experiences, personalised treatments and effortless beauty — at Hair&amp;Crew Saloons, Gurugram. Salon visits and home service, booked instantly on WhatsApp.">
+<meta property="og:image" content="https://hairandcrew.in/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://hairandcrew.in/">
+<meta property="og:locale" content="en_IN">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hair&amp;Crew Saloons — Beauty, crafted around you.">
+<meta name="twitter:description" content="Premium salon experiences, personalised treatments and effortless beauty — at Hair&amp;Crew Saloons, Gurugram.">
+<meta name="twitter:image" content="https://hairandcrew.in/og-image.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HairSalon",
+      "name": "Hair&Crew Saloons — Sector 77",
+      "image": "https://hairandcrew.in/og-image.jpg",
+      "url": "https://hairandcrew.in/",
+      "telephone": "+91-96673-67448",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No. 07, Shopping Complex 1, Umang Winter Hills 77, Sector 77",
+        "addressLocality": "Gurugram",
+        "addressRegion": "Haryana",
+        "postalCode": "122012",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "HairSalon",
+      "name": "Hair&Crew Saloons — Sector 83",
+      "image": "https://hairandcrew.in/og-image.jpg",
+      "url": "https://hairandcrew.in/",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Shop No. 107, Oodles Skywalk, Sector 83",
+        "addressLocality": "Gurugram",
+        "addressRegion": "Haryana",
+        "postalCode": "122004",
+        "addressCountry": "IN"
+      }
+    }
+  ]
+}
+</script>
+<style>:root{
+  --black:#070707;
+  --panel:#121009;
+  --panel-2:#181510;
+  --line:#2b2619;
+  --gold:#D8B56A;
+  --gold-soft:#E7CE97;
+  --cream:#EDE7DA;
+  --muted:#9C8B6E;
+  --radius:2px;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+*,*::before,*::after{box-sizing:inherit;}
+html{scroll-padding-top:env(safe-area-inset-top,0px);}
+html,body{margin:0;padding:0;background:var(--black);color:var(--cream);}
+body{
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  font-size:15px;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+h1,h2,h3,.serif{
+  font-family:'Cormorant Garamond',Georgia,serif;
+  font-weight:500;
+  letter-spacing:0.01em;
+  margin:0;
+}
+img{max-width:100%;display:block;}
+a{color:inherit;text-decoration:none;}
+button{font-family:inherit;cursor:pointer;}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px;}
+.gold{color:var(--gold);}
+.rule{height:1px;background:linear-gradient(90deg,var(--gold) 0%,var(--line) 40%);}
+.rule-full{height:1px;background:var(--line);}
+.topnav{
+  position:sticky;top:0;z-index:50;
+  background:rgba(7,7,7,0.86);
+  backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--line);
+  padding-top:env(safe-area-inset-top,0px);
+}
+.topnav-inner{
+  max-width:1180px;margin:0 auto;padding:16px 24px;
+  display:flex;align-items:center;justify-content:space-between;gap:16px;
+}
+.logo{font-family:'Cormorant Garamond',serif;font-size:22px;letter-spacing:0.04em;color:var(--cream);display:flex;align-items:center;gap:8px;}
+.logo-mark{width:30px;height:30px;border-radius:7px;display:block;flex-shrink:0;}
+.logo em{font-style:normal;color:var(--gold);}
+.navlinks{display:flex;gap:28px;align-items:center;}
+.navlinks a{font-size:13px;letter-spacing:0.03em;color:var(--muted);transition:color .15s ease;white-space:nowrap;}
+.navlinks a:hover,.navlinks a.active{color:var(--gold-soft);}
+.nav-cta{
+  border:1px solid var(--gold);color:var(--gold-soft);
+  padding:9px 18px;font-size:12.5px;letter-spacing:0.05em;
+  border-radius:var(--radius);white-space:nowrap;
+  transition:background .15s ease,color .15s ease;
+}
+.nav-cta:hover{background:var(--gold);color:#141008;}
+.nav-toggle{display:none;background:none;border:none;color:var(--cream);font-size:22px;padding:4px;}
+@media (max-width:860px){
+  .navlinks{
+    position:fixed;inset:0 0 0 auto;width:78%;max-width:320px;
+    background:var(--panel);border-left:1px solid var(--line);
+    flex-direction:column;align-items:flex-start;gap:0;
+    padding:88px 28px 28px;transform:translateX(100%);
+    transition:transform .28s ease;
+  }
+  .navlinks.open{transform:translateX(0);}
+  .navlinks a{padding:14px 0;width:100%;border-bottom:1px solid var(--line);font-size:15px;}
+  .nav-cta{margin-top:18px;}
+  .nav-toggle{display:block;}
+}
+.window{display:none;}
+.window.active{display:block;}
+.hero{
+  position:relative;
+  padding:64px 0 56px;
+  overflow:hidden;
+}
+.hero-bg{
+  position:absolute;inset:0;z-index:0;
+  background:
+    radial-gradient(ellipse 60% 50% at 82% 15%, rgba(216,181,106,0.14), transparent 60%),
+    radial-gradient(ellipse 40% 40% at 100% 90%, rgba(216,181,106,0.08), transparent 60%);
+}
+.hero-inner{position:relative;z-index:1;display:grid;grid-template-columns:1.15fr 0.85fr;gap:56px;align-items:center;}
+.hero-eyebrow{display:flex;align-items:center;gap:12px;margin-bottom:22px;}
+.hero-eyebrow .ln{width:34px;height:1px;background:var(--gold);}
+.hero-eyebrow span{font-size:12px;letter-spacing:0.14em;color:var(--muted);}
+.hero h1{font-size:clamp(38px,6vw,64px);line-height:1.06;color:var(--cream);max-width:11ch;}
+.hero h1 .accent{color:var(--gold);font-style:italic;}
+.hero p{margin-top:22px;font-size:16px;color:var(--muted);max-width:42ch;line-height:1.7;}
+.hero-btns{display:flex;gap:14px;margin-top:34px;flex-wrap:wrap;}
+.btn{
+  padding:13px 26px;font-size:13px;letter-spacing:0.04em;border-radius:var(--radius);
+  display:inline-flex;align-items:center;gap:8px;transition:all .15s ease;border:1px solid transparent;
+}
+.btn-gold{background:var(--gold);color:#141008;}
+.btn-gold:hover{background:var(--gold-soft);}
+.btn-outline{border-color:var(--line);color:var(--cream);}
+.btn-outline:hover{border-color:var(--gold);color:var(--gold-soft);}
+.btn-wa{border-color:#2c4a3a;color:#8fd6ad;}
+.btn-wa:hover{border-color:#3f6c53;background:rgba(63,108,83,0.12);}
+.hero-panel{
+  position:relative;aspect-ratio:3/4;border-radius:var(--radius);
+  background:
+    linear-gradient(155deg, var(--panel-2), var(--black) 70%);
+  border:1px solid var(--line);
+  overflow:hidden;
+}
+.hero-panel::before{
+  content:'';position:absolute;inset:0;
+  background:
+    repeating-linear-gradient(115deg, transparent 0 38px, rgba(216,181,106,0.045) 38px 39px),
+    radial-gradient(circle at 30% 20%, rgba(216,181,106,0.16), transparent 55%);
+}
+.hero-panel-mark{
+  position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+}
+.hero-panel-mark img{
+  width:42%;max-width:210px;border-radius:22px;
+  box-shadow:0 20px 60px rgba(0,0,0,0.5);
+}
+.hero-panel-caption{
+  position:absolute;left:20px;bottom:20px;right:20px;
+  font-size:11.5px;letter-spacing:0.08em;color:var(--muted);
+  border-top:1px solid var(--line);padding-top:12px;
+}
+@media (max-width:900px){
+  .hero-inner{grid-template-columns:1fr;gap:40px;}
+  .hero-panel{aspect-ratio:16/10;order:-1;}
+}
+.section{padding:72px 0;}
+.section-head{margin-bottom:40px;max-width:60ch;}
+.section-eyebrow{font-size:12px;letter-spacing:0.14em;color:var(--gold);margin-bottom:10px;}
+.section h2{font-size:clamp(26px,3.4vw,38px);color:var(--cream);}
+.section-lead{margin-top:14px;color:var(--muted);font-size:15px;line-height:1.7;max-width:58ch;}
+.about-body{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start;}
+.about-body p{color:var(--muted);font-size:15.5px;line-height:1.8;margin:0 0 16px;}
+.about-body p:last-child{margin-bottom:0;}
+@media (max-width:800px){.about-body{grid-template-columns:1fr;gap:24px;}}
+.why-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--line);border:1px solid var(--line);}
+.why-card{background:var(--black);padding:30px 22px;}
+.why-card .num{font-family:'Cormorant Garamond',serif;font-size:13px;color:var(--gold);margin-bottom:16px;}
+.why-card h3{font-size:18px;color:var(--cream);margin-bottom:8px;line-height:1.3;}
+.why-card p{font-size:13px;color:var(--muted);line-height:1.6;margin:0;}
+@media (max-width:900px){.why-grid{grid-template-columns:repeat(2,1fr);}}
+@media (max-width:520px){.why-grid{grid-template-columns:1fr;}}
+.feat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;}
+.feat-card{
+  border:1px solid var(--line);padding:26px 22px;background:var(--panel);
+  display:flex;flex-direction:column;gap:14px;transition:border-color .15s ease;
+}
+.feat-card:hover{border-color:var(--gold);}
+.feat-card .tag{font-size:11px;letter-spacing:0.08em;color:var(--muted);}
+.feat-card h3{font-size:19px;color:var(--cream);line-height:1.3;min-height:2.6em;}
+.feat-card .price{font-family:'Cormorant Garamond',serif;font-size:26px;color:var(--gold);}
+.feat-card .book-link{font-size:12.5px;letter-spacing:0.05em;color:var(--gold-soft);display:flex;align-items:center;gap:6px;margin-top:auto;}
+@media (max-width:900px){.feat-grid{grid-template-columns:repeat(2,1fr);}}
+@media (max-width:520px){.feat-grid{grid-template-columns:1fr;}}
+.sig-row{display:grid;grid-template-columns:repeat(5,1fr);border-top:1px solid var(--line);}
+.sig-item{padding:26px 18px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);}
+.sig-item:last-child{border-right:none;}
+.sig-item .serif{font-size:21px;color:var(--cream);}
+@media (max-width:800px){.sig-row{grid-template-columns:repeat(2,1fr);}.sig-item:nth-child(2n){border-right:none;}}
+.offers-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);}
+.offer-card{background:var(--panel-2);padding:28px 24px;text-align:center;}
+.offer-card .title{font-size:14px;color:var(--cream);margin-bottom:10px;}
+.offer-card .detail{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:18px;color:var(--gold);}
+@media (max-width:800px){.offers-strip{grid-template-columns:1fr;}}
+.cta{padding:80px 0;text-align:center;position:relative;}
+.cta h2{font-size:clamp(28px,4vw,44px);color:var(--cream);}
+.cta-btns{display:flex;gap:14px;justify-content:center;margin-top:30px;flex-wrap:wrap;}
+footer{border-top:1px solid var(--line);padding:44px 0 calc(30px + env(safe-area-inset-bottom,0px));}
+.footer-inner{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;}
+.footer-inner .logo{font-size:18px;}
+.footer-inner .logo-mark{width:24px;height:24px;border-radius:6px;}
+footer .fmeta{font-size:12.5px;color:var(--muted);}
+.cat-header{padding:44px 0 0;}
+.cat-tabs{
+  display:flex;gap:6px;overflow-x:auto;padding:28px 0 0;
+  border-bottom:1px solid var(--line);
+  -webkit-overflow-scrolling:touch;scrollbar-width:none;
+}
+.cat-tabs::-webkit-scrollbar{display:none;}
+.cat-tab{
+  flex:0 0 auto;padding:12px 18px;font-size:13px;letter-spacing:0.03em;color:var(--muted);
+  border-bottom:2px solid transparent;white-space:nowrap;transition:color .15s ease;
+}
+.cat-tab.active{color:var(--gold);border-bottom-color:var(--gold);}
+.cat-body{padding:40px 0 80px;}
+.cat-panel{display:none;}
+.cat-panel.active{display:block;}
+.svc-list{display:flex;flex-direction:column;}
+.svc-row{
+  display:flex;justify-content:space-between;align-items:baseline;gap:20px;
+  padding:18px 0;border-bottom:1px solid var(--line);
+}
+.svc-row .left{flex:1;min-width:0;}
+.svc-row .nm{font-size:16px;color:var(--cream);}
+.svc-row .freebie{display:block;font-size:12px;color:var(--gold);margin-top:4px;font-style:italic;font-family:'Cormorant Garamond',serif;}
+.svc-row .right{display:flex;align-items:center;gap:16px;flex-shrink:0;}
+.svc-row .price{font-family:'Cormorant Garamond',serif;font-size:19px;color:var(--gold-soft);}
+.svc-row .add{
+  border:1px solid var(--line);color:var(--muted);font-size:11.5px;letter-spacing:0.04em;
+  padding:7px 14px;border-radius:var(--radius);transition:all .15s ease;
+}
+.svc-row .add:hover{border-color:var(--gold);color:var(--gold-soft);}
+.area-block{margin-bottom:36px;}
+.area-block:last-child{margin-bottom:0;}
+.area-title{font-size:12px;letter-spacing:0.1em;color:var(--muted);text-transform:uppercase;margin-bottom:6px;padding-bottom:10px;border-bottom:1px solid var(--line);}
+.booking-shell{padding:48px 0 90px;}
+.steps-track{display:flex;align-items:center;gap:6px;margin-bottom:44px;flex-wrap:wrap;}
+.step-pill{
+  display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);
+  padding:8px 14px;border:1px solid var(--line);border-radius:999px;
+}
+.step-pill .n{
+  width:18px;height:18px;border-radius:50%;background:var(--line);color:var(--cream);
+  display:flex;align-items:center;justify-content:center;font-size:10.5px;flex-shrink:0;
+}
+.step-pill.done{color:var(--gold-soft);border-color:var(--gold);}
+.step-pill.done .n{background:var(--gold);color:#141008;}
+.step-connector{width:20px;height:1px;background:var(--line);}
+.book-step{display:none;}
+.book-step.active{display:block;}
+.book-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.pick-card{
+  border:1px solid var(--line);padding:22px 20px;background:var(--panel);cursor:pointer;
+  transition:border-color .15s ease,background .15s ease;
+}
+.pick-card:hover{border-color:var(--gold);}
+.pick-card.selected{border-color:var(--gold);background:var(--panel-2);}
+.pick-card .serif{font-size:19px;color:var(--cream);margin-bottom:6px;}
+.pick-card .sub{font-size:12.5px;color:var(--muted);line-height:1.5;}
+@media (max-width:700px){.book-grid{grid-template-columns:1fr;}}
+.form-field{margin-bottom:18px;}
+.form-field label{display:block;font-size:12px;letter-spacing:0.04em;color:var(--muted);margin-bottom:8px;}
+.form-field input,.form-field textarea,.form-field select{
+  width:100%;background:var(--panel);border:1px solid var(--line);color:var(--cream);
+  padding:12px 14px;font-size:14.5px;font-family:inherit;border-radius:var(--radius);
+}
+.form-field input:focus,.form-field textarea:focus,.form-field select:focus{outline:none;border-color:var(--gold);}
+.form-field textarea{resize:vertical;min-height:80px;}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+@media (max-width:600px){.form-row{grid-template-columns:1fr;}}
+.book-nav{display:flex;justify-content:space-between;margin-top:32px;gap:12px;}
+.book-nav .btn-outline{background:none;}
+.review-box{border:1px solid var(--line);padding:24px;background:var(--panel);margin-bottom:24px;}
+.review-row{display:flex;justify-content:space-between;gap:20px;padding:10px 0;border-bottom:1px solid var(--line);font-size:14px;}
+.review-row:last-child{border-bottom:none;}
+.review-row .k{color:var(--muted);}
+.review-row .v{color:var(--cream);text-align:right;}
+.success-box{text-align:center;padding:60px 20px;}
+.success-box .mark{
+  width:64px;height:64px;border-radius:50%;border:1px solid var(--gold);
+  display:flex;align-items:center;justify-content:center;margin:0 auto 26px;
+  font-size:26px;color:var(--gold);
+}
+.success-box h2{font-size:28px;color:var(--cream);margin-bottom:12px;}
+.success-box p{color:var(--muted);max-width:44ch;margin:0 auto 28px;line-height:1.7;}
+.home-note{
+  border:1px solid var(--line);background:var(--panel-2);padding:16px 18px;
+  font-size:13px;color:var(--muted);margin-top:8px;line-height:1.6;
+}
+</style>
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="topnav-inner">
+    <div class="logo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAEq0lEQVR4nO3dTVLbQBBA4SaVE7Bhw1l8FhY+FgvOwsXIgphyFNmWNPqZfv2+KqqSqgBS5nk0Hink6fXl+SskiF9HH4C0JoMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIXy++gDqODz/W3Wnz+dPzY5jgqcoTc2N2a1cYa+YxijM2f/DPqKs2l+5YPeOuLT+cMXyo5Kr6ENjad00HP5AuifQQvFoIVS/k3hFh4tTdz+245BN1i6pr71eYbezqA74o2cdgbdsevAjXsag07CuKdxlyOhz/c398RvMOjEjPp/pYMmXLqdrf9VOmgSw/5m0DDVozZooMqzNX7b7jKwW6yXL886L/3aW0fXcmxZPb2+PH8dfRBbmXLnrad/wLpV4JWixi45Ml5yT+ePn481Zfy7WAo5Q98bwGEse8zQLXf51o6RPlvj1tC9z0ZTju86usuvez+vXqCWHJRBHzuPNZYi9Nk5AhT01JizR780ygoxR0CCzh7pXHNn6yoxR0CCnovyApgSaqWYIwBBU+Jc6l6w1WKOSB700phpAz12PrRznCp10Eu0DnSvV4Sxrb6K0u5DLwmLPtD085ui3AwttpRBOzvrlpRBz2XMdaQLutc3ZepDuqDncnauJVXQzs56JFXQczk714MOWvWkCdrlhqZIE/RcLjdqwgatmlIEveVyw5mcJe3DSUfaYz1f8YfErCHFDC1NhQzama0uZNCqy6CFYtBCMWihGLRQDFooBi0UZNA+mVcXMmjV5bMcK3l0d9Krxj4MeiFvr/fJJYdQsEF7ia8pRdBe3jVViqClqdBBu+yoBx206kkTdK//Qbz6kiZoaYpUQTtLP/b5/vbzUVGqoFscPcB7bD0Oz/Hocz5CmaAjag5wtXNOF7Q3WcbdC7fSEiRd0BFtUY8NbPYXydRYK0SdMuhWt6LOGPbcSOlRp3189HT+aBqcy+cOIx7+vucAej62o6QNOqI96ojHPxSxx8BbjiHjVWiOkkuOoTmBHL006eEF1bP0Qa8VV4adgNbjo8/OEYCgI9YdqAxhL1Eh5ghI0BHrD1gPYa/1/avEHAEKOmKbgcv+bESlmCOS73KMWWPn45bh1+05lp6PbUu4oCO2jfra1O+xd1xVY46ALTmuHb29dpSK53wNG/QFaYAf3QAinetS+KAj+INNPre5SgR9QRt4+gt1CeSbwnuuA3ArjqfUDD2UcYbLdrx7KzdDjyHM2vpm0APGnZtB3zF2eW99FtkXybYM+q+pt7Vdw/bNoG94NJMadp9K73KIx6CFYtBCMWihGLRQDLpj7qTMZ9BCcR+6M87KbQz6QMa7PoPemRFv6+n15fnr6IOQ1uKbQqEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCF8gfZmVvEypNibwAAAABJRU5ErkJggg==" alt="Hair&amp;Crew Saloons" class="logo-mark">Hair<em>&amp;</em>Crew Saloons</div>
+    <div class="navlinks" id="navlinks">
+      <a href="#" data-goto="home-top" class="nav-link">Home</a>
+      <a href="#" data-goto="home-services" class="nav-link">Services</a>
+      <a href="#" data-window="catalog" class="nav-link">Full Menu</a>
+      <a href="#" data-window="booking" class="nav-link">Branches</a>
+      <a href="#" data-window="booking" class="nav-link">Home Service</a>
+      <a href="#" data-window="booking" class="nav-cta">Book Appointment</a>
+    </div>
+    <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false" aria-controls="navlinks">☰</button>
+  </div>
+</nav>
+
+<!-- ================= WINDOW 1 — HOME ================= -->
+<div class="window active" id="window-home">
+  <div id="home-top"></div>
+
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="wrap hero-inner">
+      <div>
+        <div class="hero-eyebrow"><span class="ln"></span><span>HAIR&amp;CREW SALOONS · GURUGRAM</span></div>
+        <h1>Beauty, crafted <span class="accent">around you.</span></h1>
+        <p id="heroSub"></p>
+        <div class="hero-btns">
+          <a href="#" class="btn btn-gold" data-goto="home-services">Explore Services</a>
+          <a href="#" class="btn btn-outline" data-window="booking">Book Appointment</a>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <div class="hero-panel-mark"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAEq0lEQVR4nO3dTVLbQBBA4SaVE7Bhw1l8FhY+FgvOwsXIgphyFNmWNPqZfv2+KqqSqgBS5nk0Hink6fXl+SskiF9HH4C0JoMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIXy++gDqODz/W3Wnz+dPzY5jgqcoTc2N2a1cYa+YxijM2f/DPqKs2l+5YPeOuLT+cMXyo5Kr6ENjad00HP5AuifQQvFoIVS/k3hFh4tTdz+245BN1i6pr71eYbezqA74o2cdgbdsevAjXsag07CuKdxlyOhz/c398RvMOjEjPp/pYMmXLqdrf9VOmgSw/5m0DDVozZooMqzNX7b7jKwW6yXL886L/3aW0fXcmxZPb2+PH8dfRBbmXLnrad/wLpV4JWixi45Ml5yT+ePn481Zfy7WAo5Q98bwGEse8zQLXf51o6RPlvj1tC9z0ZTju86usuvez+vXqCWHJRBHzuPNZYi9Nk5AhT01JizR780ygoxR0CCzh7pXHNn6yoxR0CCnovyApgSaqWYIwBBU+Jc6l6w1WKOSB700phpAz12PrRznCp10Eu0DnSvV4Sxrb6K0u5DLwmLPtD085ui3AwttpRBOzvrlpRBz2XMdaQLutc3ZepDuqDncnauJVXQzs56JFXQczk714MOWvWkCdrlhqZIE/RcLjdqwgatmlIEveVyw5mcJe3DSUfaYz1f8YfErCHFDC1NhQzama0uZNCqy6CFYtBCMWihGLRQDFooBi0UZNA+mVcXMmjV5bMcK3l0d9Krxj4MeiFvr/fJJYdQsEF7ia8pRdBe3jVViqClqdBBu+yoBx206kkTdK//Qbz6kiZoaYpUQTtLP/b5/vbzUVGqoFscPcB7bD0Oz/Hocz5CmaAjag5wtXNOF7Q3WcbdC7fSEiRd0BFtUY8NbPYXydRYK0SdMuhWt6LOGPbcSOlRp3189HT+aBqcy+cOIx7+vucAej62o6QNOqI96ojHPxSxx8BbjiHjVWiOkkuOoTmBHL006eEF1bP0Qa8VV4adgNbjo8/OEYCgI9YdqAxhL1Eh5ghI0BHrD1gPYa/1/avEHAEKOmKbgcv+bESlmCOS73KMWWPn45bh1+05lp6PbUu4oCO2jfra1O+xd1xVY46ALTmuHb29dpSK53wNG/QFaYAf3QAinetS+KAj+INNPre5SgR9QRt4+gt1CeSbwnuuA3ArjqfUDD2UcYbLdrx7KzdDjyHM2vpm0APGnZtB3zF2eW99FtkXybYM+q+pt7Vdw/bNoG94NJMadp9K73KIx6CFYtBCMWihGLRQDLpj7qTMZ9BCcR+6M87KbQz6QMa7PoPemRFv6+n15fnr6IOQ1uKbQqEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCF8gfZmVvEypNibwAAAABJRU5ErkJggg==" alt="Hair&amp;Crew Saloons"></div>
+        <div class="hero-panel-caption">Sector 77 &amp; Sector 83 — Gurugram</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-eyebrow">About</div>
+        <h2 style="display:flex;align-items:center;gap:0.35em;">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAEq0lEQVR4nO3dTVLbQBBA4SaVE7Bhw1l8FhY+FgvOwsXIgphyFNmWNPqZfv2+KqqSqgBS5nk0Hink6fXl+SskiF9HH4C0JoMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIXy++gDqODz/W3Wnz+dPzY5jgqcoTc2N2a1cYa+YxijM2f/DPqKs2l+5YPeOuLT+cMXyo5Kr6ENjad00HP5AuifQQvFoIVS/k3hFh4tTdz+245BN1i6pr71eYbezqA74o2cdgbdsevAjXsag07CuKdxlyOhz/c398RvMOjEjPp/pYMmXLqdrf9VOmgSw/5m0DDVozZooMqzNX7b7jKwW6yXL886L/3aW0fXcmxZPb2+PH8dfRBbmXLnrad/wLpV4JWixi45Ml5yT+ePn481Zfy7WAo5Q98bwGEse8zQLXf51o6RPlvj1tC9z0ZTju86usuvez+vXqCWHJRBHzuPNZYi9Nk5AhT01JizR780ygoxR0CCzh7pXHNn6yoxR0CCnovyApgSaqWYIwBBU+Jc6l6w1WKOSB700phpAz12PrRznCp10Eu0DnSvV4Sxrb6K0u5DLwmLPtD085ui3AwttpRBOzvrlpRBz2XMdaQLutc3ZepDuqDncnauJVXQzs56JFXQczk714MOWvWkCdrlhqZIE/RcLjdqwgatmlIEveVyw5mcJe3DSUfaYz1f8YfErCHFDC1NhQzama0uZNCqy6CFYtBCMWihGLRQDFooBi0UZNA+mVcXMmjV5bMcK3l0d9Krxj4MeiFvr/fJJYdQsEF7ia8pRdBe3jVViqClqdBBu+yoBx206kkTdK//Qbz6kiZoaYpUQTtLP/b5/vbzUVGqoFscPcB7bD0Oz/Hocz5CmaAjag5wtXNOF7Q3WcbdC7fSEiRd0BFtUY8NbPYXydRYK0SdMuhWt6LOGPbcSOlRp3189HT+aBqcy+cOIx7+vucAej62o6QNOqI96ojHPxSxx8BbjiHjVWiOkkuOoTmBHL006eEF1bP0Qa8VV4adgNbjo8/OEYCgI9YdqAxhL1Eh5ghI0BHrD1gPYa/1/avEHAEKOmKbgcv+bESlmCOS73KMWWPn45bh1+05lp6PbUu4oCO2jfra1O+xd1xVY46ALTmuHb29dpSK53wNG/QFaYAf3QAinetS+KAj+INNPre5SgR9QRt4+gt1CeSbwnuuA3ArjqfUDD2UcYbLdrx7KzdDjyHM2vpm0APGnZtB3zF2eW99FtkXybYM+q+pt7Vdw/bNoG94NJMadp9K73KIx6CFYtBCMWihGLRQDLpj7qTMZ9BCcR+6M87KbQz6QMa7PoPemRFv6+n15fnr6IOQ1uKbQqEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCF8gfZmVvEypNibwAAAABJRU5ErkJggg==" alt="Hair&amp;Crew Saloons" style="width:0.95em;height:0.95em;border-radius:0.2em;flex-shrink:0;">
+          Hair&amp;Crew Saloons
+        </h2>
+      </div>
+      <div class="about-body">
+        <p>Hair&amp;Crew Saloons is a premium salon built around one idea — that beauty should feel personal, not procedural. Every visit is shaped around your skin, your hair, and how you want to feel when you leave.</p>
+        <p>From signature facials to considered waxing rituals, our stylists work with premium products and an unhurried pace, across our Gurugram studios and in the comfort of your own home.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0;">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-eyebrow">Why Hair&amp;Crew Saloons</div>
+        <h2>A studio built on detail</h2>
+      </div>
+    </div>
+    <div class="wrap">
+      <div class="why-grid" id="whyGrid"></div>
+    </div>
+  </section>
+
+  <section class="section" id="home-services">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-eyebrow">Featured</div>
+        <h2>Featured services</h2>
+      </div>
+      <div class="feat-grid" id="featGrid"></div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0;">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-eyebrow">Signature Experience</div>
+        <h2>Where to begin</h2>
+      </div>
+    </div>
+    <div class="wrap" style="padding:0;">
+      <div class="sig-row" id="sigRow"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div class="section-eyebrow">Complimentary</div>
+        <h2>With every visit</h2>
+      </div>
+      <div class="offers-strip" id="offersStrip"></div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="wrap">
+      <h2 class="serif">Your beauty ritual starts here.</h2>
+      <div class="cta-btns">
+        <a href="#" class="btn btn-gold" data-window="booking">Book at Salon</a>
+        <a href="#" class="btn btn-outline" data-window="booking">Book Home Service</a>
+        <a href="#" class="btn btn-wa" id="ctaWhatsapp"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAEq0lEQVR4nO3dTVLbQBBA4SaVE7Bhw1l8FhY+FgvOwsXIgphyFNmWNPqZfv2+KqqSqgBS5nk0Hink6fXl+SskiF9HH4C0JoMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIXy++gDqODz/W3Wnz+dPzY5jgqcoTc2N2a1cYa+YxijM2f/DPqKs2l+5YPeOuLT+cMXyo5Kr6ENjad00HP5AuifQQvFoIVS/k3hFh4tTdz+245BN1i6pr71eYbezqA74o2cdgbdsevAjXsag07CuKdxlyOhz/c398RvMOjEjPp/pYMmXLqdrf9VOmgSw/5m0DDVozZooMqzNX7b7jKwW6yXL886L/3aW0fXcmxZPb2+PH8dfRBbmXLnrad/wLpV4JWixi45Ml5yT+ePn481Zfy7WAo5Q98bwGEse8zQLXf51o6RPlvj1tC9z0ZTju86usuvez+vXqCWHJRBHzuPNZYi9Nk5AhT01JizR780ygoxR0CCzh7pXHNn6yoxR0CCnovyApgSaqWYIwBBU+Jc6l6w1WKOSB700phpAz12PrRznCp10Eu0DnSvV4Sxrb6K0u5DLwmLPtD085ui3AwttpRBOzvrlpRBz2XMdaQLutc3ZepDuqDncnauJVXQzs56JFXQczk714MOWvWkCdrlhqZIE/RcLjdqwgatmlIEveVyw5mcJe3DSUfaYz1f8YfErCHFDC1NhQzama0uZNCqy6CFYtBCMWihGLRQDFooBi0UZNA+mVcXMmjV5bMcK3l0d9Krxj4MeiFvr/fJJYdQsEF7ia8pRdBe3jVViqClqdBBu+yoBx206kkTdK//Qbz6kiZoaYpUQTtLP/b5/vbzUVGqoFscPcB7bD0Oz/Hocz5CmaAjag5wtXNOF7Q3WcbdC7fSEiRd0BFtUY8NbPYXydRYK0SdMuhWt6LOGPbcSOlRp3189HT+aBqcy+cOIx7+vucAej62o6QNOqI96ojHPxSxx8BbjiHjVWiOkkuOoTmBHL006eEF1bP0Qa8VV4adgNbjo8/OEYCgI9YdqAxhL1Eh5ghI0BHrD1gPYa/1/avEHAEKOmKbgcv+bESlmCOS73KMWWPn45bh1+05lp6PbUu4oCO2jfra1O+xd1xVY46ALTmuHb29dpSK53wNG/QFaYAf3QAinetS+KAj+INNPre5SgR9QRt4+gt1CeSbwnuuA3ArjqfUDD2UcYbLdrx7KzdDjyHM2vpm0APGnZtB3zF2eW99FtkXybYM+q+pt7Vdw/bNoG94NJMadp9K73KIx6CFYtBCMWihGLRQDLpj7qTMZ9BCcR+6M87KbQz6QMa7PoPemRFv6+n15fnr6IOQ1uKbQqEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCF8gfZmVvEypNibwAAAABJRU5ErkJggg==" alt="" style="width:16px;height:16px;border-radius:4px;">WhatsApp Hair&amp;Crew Saloons</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="wrap footer-inner">
+      <div class="logo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAEq0lEQVR4nO3dTVLbQBBA4SaVE7Bhw1l8FhY+FgvOwsXIgphyFNmWNPqZfv2+KqqSqgBS5nk0Hink6fXl+SskiF9HH4C0JoMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIXy++gDqODz/W3Wnz+dPzY5jgqcoTc2N2a1cYa+YxijM2f/DPqKs2l+5YPeOuLT+cMXyo5Kr6ENjad00HP5AuifQQvFoIVS/k3hFh4tTdz+245BN1i6pr71eYbezqA74o2cdgbdsevAjXsag07CuKdxlyOhz/c398RvMOjEjPp/pYMmXLqdrf9VOmgSw/5m0DDVozZooMqzNX7b7jKwW6yXL886L/3aW0fXcmxZPb2+PH8dfRBbmXLnrad/wLpV4JWixi45Ml5yT+ePn481Zfy7WAo5Q98bwGEse8zQLXf51o6RPlvj1tC9z0ZTju86usuvez+vXqCWHJRBHzuPNZYi9Nk5AhT01JizR780ygoxR0CCzh7pXHNn6yoxR0CCnovyApgSaqWYIwBBU+Jc6l6w1WKOSB700phpAz12PrRznCp10Eu0DnSvV4Sxrb6K0u5DLwmLPtD085ui3AwttpRBOzvrlpRBz2XMdaQLutc3ZepDuqDncnauJVXQzs56JFXQczk714MOWvWkCdrlhqZIE/RcLjdqwgatmlIEveVyw5mcJe3DSUfaYz1f8YfErCHFDC1NhQzama0uZNCqy6CFYtBCMWihGLRQDFooBi0UZNA+mVcXMmjV5bMcK3l0d9Krxj4MeiFvr/fJJYdQsEF7ia8pRdBe3jVViqClqdBBu+yoBx206kkTdK//Qbz6kiZoaYpUQTtLP/b5/vbzUVGqoFscPcB7bD0Oz/Hocz5CmaAjag5wtXNOF7Q3WcbdC7fSEiRd0BFtUY8NbPYXydRYK0SdMuhWt6LOGPbcSOlRp3189HT+aBqcy+cOIx7+vucAej62o6QNOqI96ojHPxSxx8BbjiHjVWiOkkuOoTmBHL006eEF1bP0Qa8VV4adgNbjo8/OEYCgI9YdqAxhL1Eh5ghI0BHrD1gPYa/1/avEHAEKOmKbgcv+bESlmCOS73KMWWPn45bh1+05lp6PbUu4oCO2jfra1O+xd1xVY46ALTmuHb29dpSK53wNG/QFaYAf3QAinetS+KAj+INNPre5SgR9QRt4+gt1CeSbwnuuA3ArjqfUDD2UcYbLdrx7KzdDjyHM2vpm0APGnZtB3zF2eW99FtkXybYM+q+pt7Vdw/bNoG94NJMadp9K73KIx6CFYtBCMWihGLRQDLpj7qTMZ9BCcR+6M87KbQz6QMa7PoPemRFv6+n15fnr6IOQ1uKbQqEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCFYtBCMWihGLRQDFooBi0UgxaKQQvFoIVi0EIxaKEYtFAMWigGLRSDFopBC8WghWLQQjFooRi0UAxaKAYtFIMWikELxaCF8gfZmVvEypNibwAAAABJRU5ErkJggg==" alt="Hair&amp;Crew Saloons" class="logo-mark">Hair<em>&amp;</em>Crew Saloons</div>
+      <div class="fmeta">Sector 77 &amp; Sector 83, Gurugram, Haryana</div>
+    </div>
+  </footer>
+</div>
+
+<!-- ================= WINDOW 2 — CATALOG ================= -->
+<div class="window" id="window-catalog">
+  <div class="wrap cat-header">
+    <a href="#" data-window="home" class="btn btn-outline" style="margin-bottom:24px;">Back</a>
+    <div class="section-eyebrow">Full Catalog</div>
+    <h2 class="serif" style="font-size:32px;">Services</h2>
+  </div>
+  <div class="wrap">
+    <div class="cat-tabs" id="catTabs"></div>
+  </div>
+  <div class="wrap cat-body" id="catBody"></div>
+</div>
+
+<!-- ================= WINDOW 3 — BOOKING ================= -->
+<div class="window" id="window-booking">
+  <div class="wrap booking-shell">
+    <div class="section-eyebrow">Booking</div>
+    <h2 class="serif" style="font-size:32px;margin-bottom:32px;">Book your appointment</h2>
+
+    <div class="steps-track" id="stepsTrack"></div>
+
+    <!-- Step 1: category -->
+    <div class="book-step active" id="bookStep1">
+      <p class="section-lead" style="margin:0 0 22px;">Choose a category to begin.</p>
+      <div class="book-grid" id="bookCategoryGrid"></div>
+      <div class="book-nav">
+        <a href="#" class="btn btn-outline" data-window="home">Back</a>
+      </div>
+    </div>
+
+    <!-- Step 2: salon vs home -->
+    <div class="book-step" id="bookStep2">
+      <p class="section-lead" style="margin:0 0 22px;">How would you like your service?</p>
+      <div class="book-grid">
+        <div class="pick-card" data-mode="salon">
+          <div class="serif">Salon Service</div>
+          <div class="sub">Visit us at Sector 77 or Sector 83, Gurugram.</div>
+        </div>
+        <div class="pick-card" data-mode="home">
+          <div class="serif">Home Service</div>
+          <div class="sub">Enjoy Hair&amp;Crew Saloons services at your home.</div>
+        </div>
+      </div>
+      <div class="book-nav">
+        <a href="#" class="btn btn-outline" data-back="1">Back</a>
+      </div>
+    </div>
+
+    <!-- Step 3a: branch (salon) -->
+    <div class="book-step" id="bookStep3Salon">
+      <p class="section-lead" style="margin:0 0 22px;">Choose your branch.</p>
+      <div class="book-grid" id="branchGrid"></div>
+      <div class="book-nav">
+        <a href="#" class="btn btn-outline" data-back="2">Back</a>
+      </div>
+    </div>
+
+    <!-- Step 3b: home service note -->
+    <div class="book-step" id="bookStep3Home">
+      <p class="section-lead" style="margin:0 0 10px;">Enjoy Hair&amp;Crew Saloons services at your home.</p>
+      <div class="home-note">Home service availability and final confirmation will be shared on WhatsApp.</div>
+      <div class="book-nav">
+        <a href="#" class="btn btn-outline" data-back="2">Back</a>
+        <a href="#" class="btn btn-gold" data-next="4">Continue</a>
+      </div>
+    </div>
+
+    <!-- Step 4: details form -->
+    <div class="book-step" id="bookStep4">
+      <p class="section-lead" style="margin:0 0 22px;">Your details.</p>
+      <div class="form-row">
+        <div class="form-field"><label>Full name</label><input type="text" id="fName" placeholder="Your name"></div>
+        <div class="form-field"><label>Phone / WhatsApp</label><input type="tel" id="fPhone" placeholder="10-digit number"></div>
+      </div>
+      <div class="form-field" id="fAddressWrap" style="display:none;">
+        <label>Address</label><textarea id="fAddress" placeholder="House / flat no., street, landmark, area"></textarea>
+      </div>
+      <div class="form-row">
+        <div class="form-field"><label>Preferred date</label><input type="date" id="fDate"></div>
+        <div class="form-field"><label>Preferred time</label><input type="time" id="fTime"></div>
+      </div>
+      <div class="form-field"><label>Special request (optional)</label><textarea id="fRequest" placeholder="Anything we should know?"></textarea></div>
+      <div class="book-nav">
+        <a href="#" class="btn btn-outline" id="step4BackBtn">Back</a>
+        <a href="#" class="btn btn-gold" data-next="5">Review booking</a>
+      </div>
+    </div>
+
+    <!-- Step 5: review -->
+    <div class="book-step" id="bookStep5">
+      <p class="section-lead" style="margin:0 0 22px;">Review your booking.</p>
+      <div class="review-box" id="reviewBox"></div>
+      <div class="book-nav">
+        <a href="#" class="btn btn-outline" data-back="4">Back</a>
+        <a href="#" class="btn btn-gold" id="confirmBtn">Confirm on WhatsApp</a>
+      </div>
+    </div>
+
+    <!-- Step 6: success -->
+    <div class="book-step" id="bookStep6">
+      <div class="success-box">
+        <div class="mark">✓</div>
+        <h2 class="serif">Almost there</h2>
+        <p>We've opened WhatsApp with your booking details filled in. Send the message and our team will confirm your appointment shortly.</p>
+        <a href="#" class="btn btn-gold" data-window="home">Back to Home</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ==========================================================================
+   Hair&Crew — catalog & business data
+   Edit this file to change services, prices, branches, or the
+   WhatsApp number. Nothing in index.html needs to change.
+   ========================================================================== */
+
+const BRAND = {
+  name: "Hair&Crew Saloons",
+  tagline: "Beauty, crafted around you.",
+  subtagline: "Premium salon experiences, personalised treatments and effortless beauty — at Hair&Crew Saloons.",
+  city: "Gurugram, Haryana",
+  whatsapp: "919667367448", // Sector 77 — used as the default/fallback number
+};
+
+const BRANCHES = [
+  {
+    id: "sector77",
+    name: "Hair&Crew Saloons — Sector 77",
+    address: "Shop No. 07, Shopping Complex 1, Umang Winter Hills 77, Sector 77, Gurugram, Haryana 122012",
+    phone: "+91 96673 67448",
+    whatsapp: "919667367448",
+  },
+  {
+    id: "sector83",
+    name: "Hair&Crew Saloons — Sector 83",
+    address: "Shop No. 107, Oodles Skywalk, Sector 83, Gurugram, Haryana 122004",
+    phone: "Coming soon",
+    whatsapp: null, // not provided yet — booking falls back to BRAND.whatsapp
+  },
+];
+
+/* ---------------- Facials ---------------- */
+const FACIALS = [
+  { name: "Korean Glass Facial", price: 1799 },
+  { name: "KGlow Age-Rewind Facial", price: 1599 },
+  { name: "Korean Sea-Algae Hydra-Boost Facial", price: 1899 },
+  { name: "Signature Brightening Facial", price: 2099 },
+  { name: "Multi-Peptide Anti-Ageing Facial", price: 2299 },
+  { name: "Hydraboost Facial", price: 2199 },
+  { name: "O3 Kumkumadi Ayurvedic Facial", price: 1399 },
+  { name: "O3+ Radiance Luxury Facial", price: 1299 },
+  { name: "Yuzu Vitamin Glow Ritual", price: 1999 },
+  { name: "Rice Water Mochi Skin Ritual", price: 1799 },
+].map(s => ({ ...s, freebie: "FREE 10 min Foot Massage" }));
+
+/* ---------------- Cleanup ---------------- */
+const CLEANUP = [
+  { name: "Hydra Mud Glow Cleanup", price: 999 },
+  { name: "Detox Mud Cleanup", price: 999 },
+  { name: "Repechage Brightening Cleanup", price: 1399 },
+];
+
+/* ---------------- Waxing (by area, each with several wax options) ---------------- */
+const WAXING = [
+  {
+    area: "Full Arms + Underarms",
+    options: [
+      { name: "Moroccan Honey", price: 349 },
+      { name: "Rica Gold", price: 599 },
+      { name: "Cirepil Mojito Roll-On Wax", price: 799 },
+      { name: "Rica Gold Roll-On", price: 699 },
+      { name: "Cirepil Mojito Wax", price: 499 },
+      { name: "Jasmine Roll-On", price: 599 },
+    ],
+  },
+  {
+    area: "Full Legs",
+    options: [
+      { name: "Moroccan Honey", price: 399 },
+      { name: "Rica Gold", price: 599 },
+      { name: "Cirepil Mojito Roll-On Wax", price: 699 },
+      { name: "Rica Gold Roll-On", price: 599 },
+      { name: "Cirepil Mojito Wax", price: 499 },
+      { name: "Jasmine Roll-On", price: 599 },
+    ],
+  },
+  {
+    area: "Half Legs",
+    options: [
+      { name: "Moroccan Honey", price: 249 },
+      { name: "Rica Gold", price: 399 },
+      { name: "Cirepil Mojito Wax", price: 349 },
+    ],
+  },
+  {
+    area: "Back",
+    options: [
+      { name: "Moroccan Honey", price: 349 },
+      { name: "Rica Gold", price: 499 },
+      { name: "Cirepil Mojito Roll-On Wax", price: 699 },
+      { name: "Rica Gold Roll-On", price: 699 },
+      { name: "Cirepil Mojito Wax", price: 499 },
+      { name: "Jasmine Roll-On", price: 599 },
+    ],
+  },
+  {
+    area: "Stomach",
+    options: [
+      { name: "Moroccan Honey", price: 249 },
+      { name: "Rica Gold", price: 399 },
+      { name: "Cirepil Mojito Roll-On Wax", price: 599 },
+      { name: "Rica Gold Roll-On", price: 599 },
+      { name: "Cirepil Mojito Wax", price: 349 },
+      { name: "Jasmine Roll-On", price: 499 },
+    ],
+  },
+  {
+    area: "Bikini",
+    options: [
+      { name: "Moroccan Honey", price: 799 },
+      { name: "Cirepil Intimate Peel-Off Wax", price: 1099 },
+    ],
+  },
+  {
+    area: "Underarms",
+    options: [
+      { name: "Moroccan Honey", price: 99 },
+      { name: "Cirepil Intimate Peel-Off Wax", price: 199 },
+    ],
+  },
+];
+
+/* ---------------- Roll-on Waxing (subset of waxing, roll-on only, shown as its own category) ---------------- */
+const ROLLON_WAXING = [
+  {
+    area: "Full Arms + Underarms",
+    options: [
+      { name: "Cirepil Mojito Roll-On Wax", price: 799 },
+      { name: "Rica Gold Roll-On", price: 699 },
+      { name: "Jasmine Roll-On", price: 599 },
+    ],
+  },
+  {
+    area: "Full Legs",
+    options: [
+      { name: "Cirepil Mojito Roll-On Wax", price: 699 },
+      { name: "Rica Gold Roll-On", price: 599 },
+      { name: "Jasmine Roll-On", price: 599 },
+    ],
+  },
+  {
+    area: "Back",
+    options: [
+      { name: "Cirepil Mojito Roll-On Wax", price: 699 },
+      { name: "Rica Gold Roll-On", price: 699 },
+      { name: "Jasmine Roll-On", price: 599 },
+    ],
+  },
+  {
+    area: "Stomach",
+    options: [
+      { name: "Cirepil Mojito Roll-On Wax", price: 599 },
+      { name: "Rica Gold Roll-On", price: 599 },
+      { name: "Jasmine Roll-On", price: 499 },
+    ],
+  },
+];
+
+/* ---------------- Manicure & Pedicure ---------------- */
+const MANI_PEDI = [
+  { name: "Signature Manicure-Pedicure Combo", price: 1499 },
+  { name: "Ice Cream Delight Pedicure", price: 1199, freebie: "FREE 10 min Head Massage" },
+  { name: "Rejuvenating Crystal Spa Pedicure", price: 899, freebie: "FREE 10 min Head Massage" },
+  { name: "Cut, File & Polish – Feet", price: 199 },
+  { name: "Ice Cream Delight Manicure", price: 999 },
+  { name: "AVL Sea-Algae Manicure", price: 699 },
+  { name: "Cut, File & Polish – Hands", price: 199 },
+];
+
+/* ---------------- Bleach / Detan / Massage ---------------- */
+const BLEACH_DETAN_MASSAGE = [
+  { name: "Bleach", price: 399 },
+  { name: "Detan", price: 399 },
+  { name: "Foot Massage", price: 299 },
+  { name: "Head Massage", price: 399 },
+];
+
+/* ---------------- Category index for the catalog window ---------------- */
+const CATEGORIES = [
+  { id: "facials", label: "Facials" },
+  { id: "cleanup", label: "Cleanup" },
+  { id: "waxing", label: "Waxing" },
+  { id: "rollon", label: "Roll-on Waxing" },
+  { id: "manipedi", label: "Manicure & Pedicure" },
+  { id: "bleachdetan", label: "Bleach / Detan / Massage" },
+];
+
+/* ---------------- Featured picks for the homepage ---------------- */
+const FEATURED = [
+  { name: "Korean Glass Facial", price: 1799, note: "Signature facial" },
+  { name: "Signature Manicure-Pedicure Combo", price: 1499, note: "Most booked" },
+  { name: "Rica Gold — Full Legs", price: 599, note: "Waxing favourite" },
+];
+
+/* ---------------- Complimentary offers strip ---------------- */
+const OFFERS = [
+  { title: "Every Facial", detail: "FREE 10 min Foot Massage" },
+  { title: "Ice Cream Delight Pedicure", detail: "FREE 10 min Head Massage" },
+  { title: "Rejuvenating Crystal Spa Pedicure", detail: "FREE 10 min Head Massage" },
+];
+
+</script>
+<script>
+/* ==========================================================================
+   Hair&Crew — app logic (rendering + navigation + booking + WhatsApp handoff)
+   ========================================================================== */
+
+const fmt = n => '₹' + n.toLocaleString('en-IN');
+
+/* ---------------- WhatsApp link builder ---------------- */
+function waLink(number, message){
+  const digits = (number || BRAND.whatsapp).replace(/[^0-9]/g, '');
+  return `https://wa.me/${digits}?text=${encodeURIComponent(message)}`;
+}
+
+/* ================= WINDOW SWITCHING ================= */
+function showWindow(name){
+  document.querySelectorAll('.window').forEach(w => w.classList.remove('active'));
+  document.getElementById('window-' + name).classList.add('active');
+  document.querySelectorAll('.nav-link').forEach(a => a.classList.remove('active'));
+  window.scrollTo({top:0, behavior:'instant' in window ? 'instant' : 'auto'});
+  document.getElementById('navlinks').classList.remove('open');
+}
+
+document.addEventListener('click', (e) => {
+  const el = e.target.closest('[data-window]');
+  if(el){
+    e.preventDefault();
+    showWindow(el.dataset.window);
+    if(el.dataset.cat){ setTimeout(()=>selectCatTab(el.dataset.cat), 0); }
+    return;
+  }
+  const goto = e.target.closest('[data-goto]');
+  if(goto){
+    e.preventDefault();
+    const id = goto.dataset.goto;
+    showWindow('home');
+    setTimeout(() => {
+      const target = document.getElementById(id);
+      if(target) target.scrollIntoView({behavior:'smooth', block:'start'});
+    }, 30);
+  }
+});
+
+document.getElementById('navToggle').addEventListener('click', (e) => {
+  const open = document.getElementById('navlinks').classList.toggle('open');
+  e.currentTarget.setAttribute('aria-expanded', open ? 'true' : 'false');
+});
+
+/* ================= HOME RENDER ================= */
+function renderHome(){
+  document.getElementById('heroSub').textContent = BRAND.subtagline;
+  document.getElementById('ctaWhatsapp').href = waLink(BRAND.whatsapp, `Hi Hair&Crew Saloons, I'd like to know more about your services.`);
+
+  const whyItems = [
+    { t:'Premium Products', d:'Rica, Cirepil and other trusted names, used the way they\u2019re meant to be.' },
+    { t:'Expert Beauty Professionals', d:'Trained stylists who take the time to get it right.' },
+    { t:'Personalised Experience', d:'Every treatment shaped around your skin and preference.' },
+    { t:'Salon & Home Service', d:'Visit us, or have Hair&Crew Saloons come to you.' },
+    { t:'Hygienic & Comfortable Environment', d:'A calm, considered space for every appointment.' },
+  ];
+  document.getElementById('whyGrid').innerHTML = whyItems.map((w,i) => `
+    <div class="why-card">
+      <div class="num">${String(i+1).padStart(2,'0')}</div>
+      <h3>${w.t}</h3>
+      <p>${w.d}</p>
+    </div>`).join('');
+
+  document.getElementById('featGrid').innerHTML = FEATURED.map(f => `
+    <div class="feat-card">
+      <div class="tag">${f.note}</div>
+      <h3>${f.name}</h3>
+      <div class="price">${fmt(f.price)}</div>
+      <a href="#" class="book-link" data-window="booking">Book now →</a>
+    </div>`).join('');
+
+  const sigItems = ['Facials','Waxing','Manicure & Pedicure','Cleanup','Massage'];
+  document.getElementById('sigRow').innerHTML = sigItems.map(s => `
+    <div class="sig-item"><div class="serif">${s}</div></div>`).join('');
+
+  document.getElementById('offersStrip').innerHTML = OFFERS.map(o => `
+    <div class="offer-card">
+      <div class="title">${o.title}</div>
+      <div class="detail">${o.detail}</div>
+    </div>`).join('');
+}
+
+/* ================= CATALOG RENDER ================= */
+function catPanelHTML(catId){
+  if(catId === 'facials'){
+    return `<div class="svc-list">${FACIALS.map(svcRowHTML).join('')}</div>`;
+  }
+  if(catId === 'cleanup'){
+    return `<div class="svc-list">${CLEANUP.map(svcRowHTML).join('')}</div>`;
+  }
+  if(catId === 'waxing'){
+    return WAXING.map(area => `
+      <div class="area-block">
+        <div class="area-title">${area.area}</div>
+        <div class="svc-list">${area.options.map(svcRowHTML).join('')}</div>
+      </div>`).join('');
+  }
+  if(catId === 'rollon'){
+    return ROLLON_WAXING.map(area => `
+      <div class="area-block">
+        <div class="area-title">${area.area}</div>
+        <div class="svc-list">${area.options.map(svcRowHTML).join('')}</div>
+      </div>`).join('');
+  }
+  if(catId === 'manipedi'){
+    return `<div class="svc-list">${MANI_PEDI.map(svcRowHTML).join('')}</div>`;
+  }
+  if(catId === 'bleachdetan'){
+    return `<div class="svc-list">${BLEACH_DETAN_MASSAGE.map(svcRowHTML).join('')}</div>`;
+  }
+  return '';
+}
+
+function svcRowHTML(s){
+  const payload = JSON.stringify({name:s.name, price:s.price, freebie: s.freebie || null});
+  return `
+    <div class="svc-row">
+      <div class="left">
+        <div class="nm">${s.name}</div>
+        ${s.freebie ? `<span class="freebie">${s.freebie}</span>` : ''}
+      </div>
+      <div class="right">
+        <div class="price">${fmt(s.price)}</div>
+        <a href="#" class="add" data-book-item='${payload.replace(/'/g,"&#39;")}'>Add</a>
+      </div>
+    </div>`;
+}
+
+function renderCatalog(){
+  document.getElementById('catTabs').innerHTML = CATEGORIES.map((c,i) => `
+    <div class="cat-tab ${i===0?'active':''}" data-cat-tab="${c.id}">${c.label}</div>`).join('');
+  document.getElementById('catBody').innerHTML = CATEGORIES.map((c,i) => `
+    <div class="cat-panel ${i===0?'active':''}" id="catPanel-${c.id}">
+      ${catPanelHTML(c.id)}
+      <div class="book-nav"><a href="#" class="btn btn-outline" data-window="home">Back</a></div>
+    </div>`).join('');
+}
+
+function selectCatTab(catId){
+  document.querySelectorAll('.cat-tab').forEach(t => t.classList.toggle('active', t.dataset.catTab === catId));
+  document.querySelectorAll('.cat-panel').forEach(p => p.classList.toggle('active', p.id === 'catPanel-' + catId));
+}
+
+document.addEventListener('click', (e) => {
+  const tab = e.target.closest('[data-cat-tab]');
+  if(tab){ e.preventDefault(); selectCatTab(tab.dataset.catTab); }
+});
+
+/* ================= BOOKING FLOW ================= */
+const booking = {
+  step: 1,
+  category: null,
+  mode: null,        // 'salon' | 'home'
+  branch: null,       // branch object
+  item: null,         // {name, price, freebie, type}
+};
+
+const STEP_LABELS = ['Category','Salon/Home','Branch/Address','Your details','Review'];
+
+function stepsForFlow(){
+  // dynamic step 3 label depends on mode
+  const labels = [...STEP_LABELS];
+  if(booking.mode === 'home') labels[2] = 'Home details';
+  return labels;
+}
+
+function renderStepsTrack(){
+  const labels = stepsForFlow();
+  const currentIdx = mapStepToIndex(booking.step);
+  document.getElementById('stepsTrack').innerHTML = labels.map((l,i) => `
+    <span class="step-pill ${i < currentIdx ? 'done' : (i===currentIdx?'done':'')}"><span class="n">${i+1}</span>${l}</span>
+    ${i < labels.length-1 ? '<span class="step-connector"></span>' : ''}`).join('');
+}
+
+function mapStepToIndex(step){
+  // step keys: 1,2,'3s','3h',4,5,6 -> index 0..4 (6=success, treat as 4)
+  const order = {1:0, 2:1, '3s':2, '3h':2, 4:3, 5:4, 6:4};
+  return order[step] ?? 0;
+}
+
+function goToBookStep(step){
+  booking.step = step;
+  document.querySelectorAll('.book-step').forEach(s => s.classList.remove('active'));
+  const idMap = {1:'bookStep1', 2:'bookStep2', '3s':'bookStep3Salon', '3h':'bookStep3Home', 4:'bookStep4', 5:'bookStep5', 6:'bookStep6'};
+  document.getElementById(idMap[step]).classList.add('active');
+  renderStepsTrack();
+  // toggle address field visibility for home mode
+  document.getElementById('fAddressWrap').style.display = booking.mode === 'home' ? 'block' : 'none';
+  window.scrollTo({top: document.querySelector('.booking-shell').offsetTop - 80, behavior:'smooth'});
+}
+
+function renderBookingCategoryGrid(){
+  document.getElementById('bookCategoryGrid').innerHTML = CATEGORIES.map(c => `
+    <div class="pick-card" data-book-cat="${c.id}">
+      <div class="serif">${c.label}</div>
+      <div class="sub">View ${c.label.toLowerCase()} and choose a service.</div>
+    </div>`).join('');
+}
+
+function renderBranchGrid(){
+  document.getElementById('branchGrid').innerHTML = BRANCHES.map(b => `
+    <div class="pick-card" data-branch="${b.id}">
+      <div class="serif">${b.name}</div>
+      <div class="sub">${b.address}<br>${b.phone}</div>
+    </div>`).join('');
+}
+
+document.addEventListener('click', (e) => {
+  // pick a category from the booking flow -> jump to catalog to choose exact item, then come back
+  const bc = e.target.closest('[data-book-cat]');
+  if(bc){
+    e.preventDefault();
+    booking.category = bc.dataset.bookCat;
+    document.querySelectorAll('#bookCategoryGrid .pick-card').forEach(c => c.classList.toggle('selected', c===bc));
+    showWindow('catalog');
+    setTimeout(()=>selectCatTab(booking.category), 0);
+    return;
+  }
+
+  // pick salon/home mode
+  const modeCard = e.target.closest('#bookStep2 [data-mode]');
+  if(modeCard){
+    e.preventDefault();
+    booking.mode = modeCard.dataset.mode;
+    document.querySelectorAll('#bookStep2 .pick-card').forEach(c => c.classList.toggle('selected', c===modeCard));
+    setTimeout(() => goToBookStep(booking.mode === 'salon' ? '3s' : '3h'), 150);
+    return;
+  }
+
+  // pick branch
+  const branchCard = e.target.closest('[data-branch]');
+  if(branchCard){
+    e.preventDefault();
+    booking.branch = BRANCHES.find(b => b.id === branchCard.dataset.branch);
+    document.querySelectorAll('#branchGrid .pick-card').forEach(c => c.classList.toggle('selected', c===branchCard));
+    setTimeout(() => goToBookStep(4), 150);
+    return;
+  }
+
+  // "Add" on a service row -> set item, jump to booking window step 2
+  const bookItemEl = e.target.closest('[data-book-item]');
+  if(bookItemEl){
+    e.preventDefault();
+    const data = JSON.parse(bookItemEl.dataset.bookItem);
+    booking.item = data;
+    showWindow('booking');
+    goToBookStep(2);
+    return;
+  }
+
+  // generic back/next
+  const backEl = e.target.closest('[data-back]');
+  if(backEl){
+    e.preventDefault();
+    const target = backEl.dataset.back;
+    goToBookStep(isNaN(target) ? target : Number(target));
+    return;
+  }
+  const nextEl = e.target.closest('[data-next]');
+  if(nextEl){
+    e.preventDefault();
+    if(nextEl.dataset.next === '5'){
+      if(!validateStep4()) return;
+      renderReview();
+    }
+    goToBookStep(isNaN(nextEl.dataset.next) ? nextEl.dataset.next : Number(nextEl.dataset.next));
+    return;
+  }
+});
+
+document.getElementById('step4BackBtn').addEventListener('click', (e) => {
+  e.preventDefault();
+  goToBookStep(booking.mode === 'salon' ? '3s' : '3h');
+});
+
+function validateStep4(){
+  const name = document.getElementById('fName').value.trim();
+  const phone = document.getElementById('fPhone').value.trim();
+  if(!name || !phone){
+    alert('Please share your name and phone number so we can confirm your booking.');
+    return false;
+  }
+  return true;
+}
+
+function renderReview(){
+  const name = document.getElementById('fName').value.trim();
+  const phone = document.getElementById('fPhone').value.trim();
+  const address = document.getElementById('fAddress').value.trim();
+  const date = document.getElementById('fDate').value;
+  const time = document.getElementById('fTime').value;
+  const request = document.getElementById('fRequest').value.trim();
+
+  booking.customer = {name, phone, address, date, time, request};
+
+  const rows = [
+    ['Service', booking.item ? booking.item.name : '—'],
+    ['Price', booking.item ? fmt(booking.item.price) : '—'],
+    ['Salon / Home', booking.mode === 'salon' ? 'Salon Service' : 'Home Service'],
+  ];
+  if(booking.mode === 'salon' && booking.branch){
+    rows.push(['Branch', booking.branch.name]);
+  }
+  if(booking.mode === 'home' && address){
+    rows.push(['Address', address]);
+  }
+  rows.push(['Name', name || '—']);
+  rows.push(['Phone', phone || '—']);
+  rows.push(['Date', date || '—']);
+  rows.push(['Time', time || '—']);
+  if(request) rows.push(['Special request', request]);
+  if(booking.item && booking.item.freebie) rows.push(['Complimentary', booking.item.freebie]);
+
+  document.getElementById('reviewBox').innerHTML = rows.map(([k,v]) => `
+    <div class="review-row"><span class="k">${k}</span><span class="v">${v}</span></div>`).join('');
+}
+
+function buildWhatsAppMessage({item, mode, branch, name, phone, address, date, time, request}){
+  const lines = [
+    'Hair&Crew Saloons Booking',
+    '',
+    `Customer Name: ${name || '—'}`,
+    `Phone: ${phone || '—'}`,
+    `Service: ${item ? item.name : '—'}`,
+    `Price: ${item ? fmt(item.price) : '—'}`,
+    `Salon / Home Service: ${mode === 'home' ? 'Home Service' : (mode === 'salon' ? 'Salon Service' : '—')}`,
+  ];
+  if(mode === 'salon' && branch) lines.push(`Branch: ${branch.name}`);
+  if(mode === 'home') lines.push(`Address: ${address || '—'}`);
+  lines.push(`Date: ${date || '—'}`);
+  lines.push(`Time: ${time || '—'}`);
+  lines.push(`Special Request: ${request || '—'}`);
+  if(item && item.freebie) lines.push('', item.freebie);
+  lines.push('', 'Please confirm my appointment.');
+  return lines.join('\n');
+}
+
+document.getElementById('confirmBtn').addEventListener('click', (e) => {
+  e.preventDefault();
+  const c = booking.customer || {};
+  const msg = buildWhatsAppMessage({
+    item: booking.item, mode: booking.mode, branch: booking.branch,
+    name: c.name, phone: c.phone, address: c.address, date: c.date, time: c.time, request: c.request,
+  });
+  const number = (booking.mode === 'salon' && booking.branch && booking.branch.whatsapp) ? booking.branch.whatsapp : BRAND.whatsapp;
+  window.open(waLink(number, msg), '_blank', 'noopener');
+  goToBookStep(6);
+});
+
+/* ================= INIT ================= */
+renderHome();
+renderCatalog();
+renderBookingCategoryGrid();
+renderBranchGrid();
+renderStepsTrack();
+
+</script>
+</body>
+</html>
